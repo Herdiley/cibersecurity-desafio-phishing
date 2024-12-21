@@ -16,3 +16,4 @@ Configurando o Phishing no Kali Linux
     URL para clone: http://www.facebook.com
 
 Resultado
+/home/herdiley/Imagens/Tela.png
